@@ -1,0 +1,14 @@
+{
+  "name": "iwi-cli",
+  "version": "1.0.0",
+  "description": "A cli app for the IWI Rest-API",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
