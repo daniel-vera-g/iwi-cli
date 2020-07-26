@@ -1,5 +1,5 @@
 const expect = require('chai').expect;
-const mensa = require('../lib/mensa');
+const mensa = require('../lib/mensa/mensa-helpers');
 
 describe('mensa.js', function () {
     describe('getData()', function () {
